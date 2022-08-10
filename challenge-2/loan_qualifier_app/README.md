@@ -33,16 +33,13 @@ Before running the application first install the following dependencies.
 ## Usage
 To use this app pass in theses parameters: Credit score, Current amount of monthly debt, Total monthly income, Desired loan amount, Home value.
 
-It will return the banks that qualify you for a loan (out of a given data set) and ask if youd like to save them to a .csv file.
-
-
+ After entering paramters the program will return the banks that qualify you for a loan (out of a given data set) and ask if youd like to save them to a .csv file.
 ![](module-2/inputs.png)
-
 
 ---
 
 ## Contributors
-Primary contributor: Austin means Email:austinmeans92@gmail.com
+Primary contributor: Austin means Email: austinmeans92@gmail.com
 
 ---
 
