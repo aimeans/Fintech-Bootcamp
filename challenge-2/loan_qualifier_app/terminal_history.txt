@@ -22,13 +22,14 @@
    22  conda --version
    23  conda --version
    24  conda create -n dev python=3.7 anaconda
-   25  source D:/anaconda/Scripts/activate base
+   25  cd fintech-workspace
    26  ls
-   27  cd module-2
-   28  ls
-   29  cd starter_code
-   30  ls
-   31  python app.py
-   32  cd loan_qualifier_app
-   33  python app.py
-   34  history 50 > terminal_history.txt
+   27  cd fintech-bootcamp
+   28  git add .
+   29  git commit -m"Actual Final change to read me"
+   30  git push
+   31  git add .
+   32  git commit -m"Final touch ups"
+   33  git push
+   34  terminal.history.txt
+   35  history 50 > terminal_history.txt

@@ -23,20 +23,13 @@
    23  conda --version
    24  conda create -n dev python=3.7 anaconda
    25  cd fintech-workspace
-   26  c
-   27  ls
-   28  cd 'week 3 lessons'
-   29  ls
-   30  cd..
-   31  cd ..
-   32  git clone https://github.com/aimeans/Fintech-Bootcamp.git
-   33  ls
-   34  git status
-   35  cd fintech-bootcamp
-   36  git status
-   37  git add .
-   38  git add .
-   39  git commit
-   40  git commit -m "Save number 2 read me half done"
-   41  git push
-   42  history 50 > terminal_history.txt
+   26  ls
+   27  cd fintech-bootcamp
+   28  git add .
+   29  git commit -m"Actual Final change to read me"
+   30  git push
+   31  git add .
+   32  git commit -m"Final touch ups"
+   33  git push
+   34  terminal.history.txt
+   35  history 50 > terminal_history.txt
