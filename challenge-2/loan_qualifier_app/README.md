@@ -24,7 +24,9 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
-![](Images/cli.png)  !!!!!!!!!!!NEEED HELP!!!!!!!
+
+![](module-2/Screenshot%202022-08-08%20074634.png)
+
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 ---
