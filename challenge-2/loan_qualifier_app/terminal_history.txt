@@ -1,0 +1,34 @@
+    1  git config --global user.name "Aimeans"
+    2  git config --global user.name
+    3  ls -al ~/.ssh
+    4  ssh-keygen -t rsa -b 4096 -C "austinmeans92@gmail.com"
+    5  eval "$(ssh-agent -s)
+    6  eval "$(ssh-agent -s)"
+    7  eval "$(ssh-agent -s)"
+    8  ssh-add ~/ .ssh/id_rsa
+    9  clip < ~/.ssh/id_rsa.pub
+   10  ssh -T git@github.com
+   11  conda --version
+   12  conda --version
+   13  conda --version
+   14  anaconda --version
+   15  conda update anaconda
+   16  conda --version
+   17  conda update anaconda.
+   18  conda --version
+   19  conda --version
+   20  $ ^V
+   21   ./anaconda3/Scripts/conda.exe init
+   22  conda --version
+   23  conda --version
+   24  conda create -n dev python=3.7 anaconda
+   25  source D:/anaconda/Scripts/activate base
+   26  ls
+   27  cd module-2
+   28  ls
+   29  cd starter_code
+   30  ls
+   31  python app.py
+   32  cd loan_qualifier_app
+   33  python app.py
+   34  history 50 > terminal_history.txt
