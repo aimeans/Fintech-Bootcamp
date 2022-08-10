@@ -1,0 +1,35 @@
+    1  git config --global user.name "Aimeans"
+    2  git config --global user.name
+    3  ls -al ~/.ssh
+    4  ssh-keygen -t rsa -b 4096 -C "austinmeans92@gmail.com"
+    5  eval "$(ssh-agent -s)
+    6  eval "$(ssh-agent -s)"
+    7  eval "$(ssh-agent -s)"
+    8  ssh-add ~/ .ssh/id_rsa
+    9  clip < ~/.ssh/id_rsa.pub
+   10  ssh -T git@github.com
+   11  conda --version
+   12  conda --version
+   13  conda --version
+   14  anaconda --version
+   15  conda update anaconda
+   16  conda --version
+   17  conda update anaconda.
+   18  conda --version
+   19  conda --version
+   20  $ ^V
+   21   ./anaconda3/Scripts/conda.exe init
+   22  conda --version
+   23  conda --version
+   24  conda create -n dev python=3.7 anaconda
+   25  cd fintech-workspace
+   26  ls
+   27  cd fintech-bootcamp
+   28  git add .
+   29  git commit -m"Actual Final change to read me"
+   30  git push
+   31  git add .
+   32  git commit -m"Final touch ups"
+   33  git push
+   34  terminal.history.txt
+   35  history 50 > terminal_history.txt
